@@ -9,16 +9,16 @@ The project analyses the turnover of bicycle stores over three consecutive years
 3. Tableau
 
 **SQL Operations**
-1. Create database
-2. Create respective tables
-3. Insert all values into tables
-4. Write an appropriate query to get final result
+1. Create database 
+2. Create respective tables (BikeStores Database - load data.sql)
+3. Insert all values into tables (BikeStores Database - load data.sql)
+4. Write an appropriate query to get final result (BikeStoreQuery.sql)
 
 **Excel Operations**
-1. Load the query 
+1. Load the query (BikeStoreSales.csv)
 2. Check for duplicates, typos or redundant data
 
 **Tableau Operations**
 1. Upload the csv file
 2. Create worksheets for revenue dependance by year, state, store etc.
-3. Create all-encompassing dashboard
+3. Create all-encompassing dashboard (BikeStoresSales.twbx)
